@@ -51,8 +51,11 @@ const almasud = {
 };
 ``` -->
 
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=almasud&count_private=true&show_icons=true&locale=en&theme=vue-dark&background=000000" alt="almasud" />
-&nbsp;<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=almasud&theme=vue-dark" alt="almasud" />
+<!-- &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=almasud&count_private=true&show_icons=true&locale=en&theme=vue-dark&background=000000" alt="almasud" />
+&nbsp;<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=almasud&theme=vue-dark" alt="almasud" /> -->
+
+![Twitter Badge](https://github-readme-stats.vercel.app/api?username=almasud&count_private=true&show_icons=true&locale=en&theme=vue-dark&background=000000)
+&nbsp;![Twitter Badge](http://github-readme-streak-stats.herokuapp.com?user=almasud&theme=vue-dark)
 
 <br />
 <br />
