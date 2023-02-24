@@ -1,4 +1,4 @@
-[![Linkedin Badge](https://img.shields.io/badge/-abdullahalmasud-blue?style=social&logo=Linkedin&logoColor=blue&link=[[https://www.linkedin.com/in/abdullah-almasud/](https://www.linkedin.com/in/abdullah-almasud/)](https://www.linkedin.com/in/abdullah-almasud/))](https://www.linkedin.com/in/abdullah-almasud/) 
+[![Linkedin Badge](https://img.shields.io/badge/-abdullahalmasud-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/abdullah-almasud/)](https://www.linkedin.com/in/abdullah-almasud/) 
 [![Twitter Badge](http://img.shields.io/badge/-@almasud_arm-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/almasud_arm)](https://twitter.com/almasud_arm)
 
 ```yaml
