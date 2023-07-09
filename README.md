@@ -5,11 +5,12 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=almasud&style=flat-square)
 
+![Header image](./github-header-image.png)
+
 ```yaml
--Who am I?:
-         - Name: Md. Abdullah Al Masud
+-About me:
          - Pronouns: He, Him
-         - Profession: Software Engineer (Mobile App) at NybSys Inc 
+         - Profession: Software Engineer (Mobile App) at NybSys Inc. 
          - Expertise: Android & Flutter
          - Lives in: Dhaka, Bangladesh
          - Hometown: Dinajpur, Bangladesh
