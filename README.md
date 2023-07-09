@@ -3,7 +3,7 @@
 [![WhatsApp Badge](http://img.shields.io/badge/+8801737606053-1ca0f1?style=social&logo=whatsapp&logoColor=teal-green&link=https://wa.me/8801737606053)](https://wa.me/8801737606053)
 [![Telegram Badge](http://img.shields.io/badge/@almasud__arm-1ca0f1?style=social&logo=telegram&logoColor=blue&link=https://t.me/almasud_arm)](https://t.me/almasud_arm)
 
-![Profile views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=almasud&style=flat-square)
 
 ```yaml
 -Who am I?:
