@@ -1,5 +1,4 @@
 [![Linkedin Badge](https://img.shields.io/badge/-in/abdullah--almasud-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/abdullah-almasud/)](https://www.linkedin.com/in/abdullah-almasud/)
-[![Twitter Badge](http://img.shields.io/badge/-@almasud__arm-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/almasud_arm)](https://twitter.com/almasud_arm)
 [![WhatsApp Badge](http://img.shields.io/badge/+8801737606053-1ca0f1?style=social&logo=whatsapp&logoColor=teal-green&link=https://wa.me/8801737606053)](https://wa.me/8801737606053)
 [![Telegram Badge](http://img.shields.io/badge/@almasud__arm-1ca0f1?style=social&logo=telegram&logoColor=blue&link=https://t.me/almasud_arm)](https://t.me/almasud_arm)
 
