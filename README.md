@@ -76,14 +76,14 @@ About Me:
 
 | Project | Description | Stack |
 |--------|-------------|-------|
+| **CDAS Mobile App** *(DataNet / NybSys)* | KMP/CMP app for [DataNet](http://www.dnet.co.sz)'s Central Deduction Administration System — serving government & financial sectors across Eswatini (formerly Swaziland), Lesotho & South Africa. MVP covers login, deduction (loan) requests, history, application status & profile. | Kotlin · KMP · CMP · Compose Multiplatform |
+| [**Xtreme VPN**](https://play.google.com/store/apps/details?id=com.github.almasud.xtreme_vpn) | Most downloaded — Android VPN app for online security and privacy. | Java · Kotlin · REST API |
 | [**Sentra PTT**](https://play.google.com/store/apps/details?id=com.nybsys.sentra.sitex) | Voice & data communication platform with AI and edge computing. Rich media, location sharing, calls & messaging. | Android · Java · Protocol Buffers · RoomDB |
 | [**DrinkWell**](https://drinkwellsystems.com/) | Clean water platform with two Flutter apps — Pump Operator App & Dealer App for water ATM card management and fund transfers. | Flutter · REST API · NFC |
-| [**Hokkaido Golf Club**](https://play.google.com/store/apps/details?id=hokkaido.classic.g.c) | Members-only Android app for a Golf Club. | Android · Java · Retrofit |
 | [**One-Click Order**](https://play.google.com/store/apps/details?id=co.ltd.keiai.OneClickOrder) | Cross-platform ordering app for Android & iOS for registered company members. | Flutter · Dart |
 | [**One-Click Order API & Admin**](https://keiai-app.com/keiaiadmin) | Backend REST API and dashboard admin panel powering the One-Click Order app. | Laravel · Bootstrap · PHP |
-| [**Xtreme VPN**](https://play.google.com/store/apps/details?id=com.github.almasud.xtreme_vpn) | Android VPN app for online security and privacy. | Java · Kotlin · REST API |
+| [**Hokkaido Golf Club**](https://play.google.com/store/apps/details?id=hokkaido.classic.g.c) | Members-only Android app for a Golf Club. | Android · Java · Retrofit |
 | [**Augmented Learn**](https://play.google.com/store/apps/details?id=com.github.almasud.augmented_learn) | AR-powered educational app to teach preschool children. | Java · ARCore · Blender |
-| **KMP/CMP Project** *(in progress)* | Kotlin Multiplatform & Compose Multiplatform app targeting Android and iOS with shared business logic. | Kotlin · KMP · CMP |
 
 ---
 
