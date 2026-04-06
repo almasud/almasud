@@ -65,8 +65,9 @@ About Me:
 **API & Communication**
 
 ![REST API](https://img.shields.io/badge/REST%20API-009688?style=flat-square&logo=fastapi&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+[![MQTT](https://img.shields.io/badge/MQTT-E10098?style=flat-square&logo=mqtt&logoColor=white)](https://mqtt.org)
 ![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=google&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
 
 **UI & Web**
@@ -93,9 +94,9 @@ About Me:
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| **CDAS Mobile App** *(DataNet / NybSys)* | KMP/CMP app for [DataNet](http://www.dnet.co.sz)'s Central Deduction Administration System — serving government & financial sectors across Eswatini (formerly Swaziland), Lesotho & South Africa. MVP covers login, deduction (loan) requests, history, application status & profile. | Kotlin · Kotlin Multiplatform (KMP/CMP) · Kotlin Coroutine, Flow · Koin · Ktor · Clean Architecture
-| [**Xtreme VPN**](https://play.google.com/store/apps/details?id=com.github.almasud.xtreme_vpn) | Most downloaded — Android VPN app for online security and privacy. | Java · Kotlin · Retrofit · OpenVPN |
-| [**Sentra PTT**](https://play.google.com/store/apps/details?id=com.nybsys.sentra.sitex) | Voice & data communication platform with AI and edge computing. Rich media, location sharing, calls & messaging. | Android · Java · Kotlin · Protocol Buffers · RoomDB · Clean Architecture |
+| **CDAS Mobile App** *(DataNet / NybSys)* | KMP/CMP app for [DataNet](http://www.dnet.co.sz)'s Central Deduction Administration System — serving government & financial sectors across Eswatini (formerly Swaziland), Lesotho & South Africa. MVP covers login, deduction (loan) requests, history, application status & profile. | Kotlin · Kotlin Multiplatform (KMP/CMP) · Kotlin Coroutine, Flow · Koin · Ktor · Clean Architecture · REST API · CI/CD (Fastlane)
+| [**Xtreme VPN**](https://play.google.com/store/apps/details?id=com.github.almasud.xtreme_vpn) | Android VPN app for online security and privacy. | Java · Kotlin · Retrofit · OpenVPN · REST API · CI/CD (Fastlane) |
+| [**Sentra PTT**](https://play.google.com/store/apps/details?id=com.nybsys.sentra.sitex) | Voice & data communication platform with AI and edge computing. Rich media, location sharing, calls & messaging. | Android · Java · Kotlin · MQTT · gRPC (Protocol Buffers) · RoomDB · Clean Architecture · CI/CD (Fastlane) |
 | [**DrinkWell**](https://drinkwellsystems.com/) | Clean water platform with two Flutter apps — Pump Operator App & Dealer App for water ATM card management and fund transfers. | Dart · Flutter · REST API · NFC |
 | [**One-Click Order**](https://play.google.com/store/apps/details?id=co.ltd.keiai.OneClickOrder) | Cross-platform ordering app for Android & iOS for registered company members. | Dart · Flutter · REST API |
 | [**One-Click Order API & Admin**](https://keiai-app.com/keiaiadmin) | Backend REST API and dashboard admin panel powering the One-Click Order app. | Laravel · Bootstrap · PHP |
