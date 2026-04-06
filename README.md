@@ -35,15 +35,32 @@ About Me:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-**Mobile Frameworks & Libraries**
+**Android**
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![KMP](https://img.shields.io/badge/KMP-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![CMP](https://img.shields.io/badge/CMP-02569B?style=flat-square&logo=kotlin&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Flow](https://img.shields.io/badge/Flow-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Hilt](https://img.shields.io/badge/Hilt-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![RxJava](https://img.shields.io/badge/RxJava-B7178C?style=flat-square&logo=reactivex&logoColor=white)
 ![Retrofit](https://img.shields.io/badge/Retrofit-009688?style=flat-square&logo=square&logoColor=white)
+
+**Flutter**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Bloc](https://img.shields.io/badge/Bloc-02569B?style=flat-square&logo=flutter&logoColor=white)
+![GoRouter](https://img.shields.io/badge/GoRouter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dio](https://img.shields.io/badge/Dio-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Freezed](https://img.shields.io/badge/Freezed-0175C2?style=flat-square&logo=dart&logoColor=white)
+![GetIt](https://img.shields.io/badge/GetIt-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Dart Streams](https://img.shields.io/badge/Dart%20Streams-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+**KMP / CMP**
+
+![KMP](https://img.shields.io/badge/KMP-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![CMP](https://img.shields.io/badge/CMP-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Ktor](https://img.shields.io/badge/Ktor-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Koin](https://img.shields.io/badge/Koin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Kotlinx Serialization](https://img.shields.io/badge/Kotlinx%20Serialization-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
 **API & Communication**
 
@@ -76,14 +93,14 @@ About Me:
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| **CDAS Mobile App** *(DataNet / NybSys)* | KMP/CMP app for [DataNet](http://www.dnet.co.sz)'s Central Deduction Administration System — serving government & financial sectors across Eswatini (formerly Swaziland), Lesotho & South Africa. MVP covers login, deduction (loan) requests, history, application status & profile. | Kotlin · KMP · CMP · Compose Multiplatform |
-| [**Xtreme VPN**](https://play.google.com/store/apps/details?id=com.github.almasud.xtreme_vpn) | Most downloaded — Android VPN app for online security and privacy. | Java · Kotlin · REST API |
-| [**Sentra PTT**](https://play.google.com/store/apps/details?id=com.nybsys.sentra.sitex) | Voice & data communication platform with AI and edge computing. Rich media, location sharing, calls & messaging. | Android · Java · Protocol Buffers · RoomDB |
-| [**DrinkWell**](https://drinkwellsystems.com/) | Clean water platform with two Flutter apps — Pump Operator App & Dealer App for water ATM card management and fund transfers. | Flutter · REST API · NFC |
-| [**One-Click Order**](https://play.google.com/store/apps/details?id=co.ltd.keiai.OneClickOrder) | Cross-platform ordering app for Android & iOS for registered company members. | Flutter · Dart |
+| **CDAS Mobile App** *(DataNet / NybSys)* | KMP/CMP app for [DataNet](http://www.dnet.co.sz)'s Central Deduction Administration System — serving government & financial sectors across Eswatini (formerly Swaziland), Lesotho & South Africa. MVP covers login, deduction (loan) requests, history, application status & profile. | Kotlin · Kotlin Multiplatform (KMP/CMP) · Kotlin Coroutine, Flow · Koin · Ktor · Clean Architecture
+| [**Xtreme VPN**](https://play.google.com/store/apps/details?id=com.github.almasud.xtreme_vpn) | Most downloaded — Android VPN app for online security and privacy. | Java · Kotlin · Retrofit · OpenVPN |
+| [**Sentra PTT**](https://play.google.com/store/apps/details?id=com.nybsys.sentra.sitex) | Voice & data communication platform with AI and edge computing. Rich media, location sharing, calls & messaging. | Android · Java · Kotlin · Protocol Buffers · RoomDB · Clean Architecture |
+| [**DrinkWell**](https://drinkwellsystems.com/) | Clean water platform with two Flutter apps — Pump Operator App & Dealer App for water ATM card management and fund transfers. | Dart · Flutter · REST API · NFC |
+| [**One-Click Order**](https://play.google.com/store/apps/details?id=co.ltd.keiai.OneClickOrder) | Cross-platform ordering app for Android & iOS for registered company members. | Dart · Flutter · REST API |
 | [**One-Click Order API & Admin**](https://keiai-app.com/keiaiadmin) | Backend REST API and dashboard admin panel powering the One-Click Order app. | Laravel · Bootstrap · PHP |
 | [**Hokkaido Golf Club**](https://play.google.com/store/apps/details?id=hokkaido.classic.g.c) | Members-only Android app for a Golf Club. | Android · Java · Retrofit |
-| [**Augmented Learn**](https://play.google.com/store/apps/details?id=com.github.almasud.augmented_learn) | AR-powered educational app to teach preschool children. | Java · ARCore · Blender |
+| [**Augmented Learn**](https://play.google.com/store/apps/details?id=com.github.almasud.augmented_learn) | AR-powered educational app to teach preschool children. | Java · RxJava · Retrofit · ARCore · Blender · Photoshop |
 
 ---
 
